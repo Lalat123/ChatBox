@@ -1,0 +1,3 @@
+--- Registered Users Log ---
+[2026-06-20T13:51:30.081Z] Username: lalat, Email: lalat@gmail.com
+[2026-06-20T13:51:36.640Z] Username: lalat, Email: iec2024025@iiita.ac.in
