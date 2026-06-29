@@ -5,7 +5,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 Chatbox is a sleek, web-based real-time communication platform built with React, Node.js, and Socket.io. It allows users to seamlessly connect, join servers, create channels, and send direct messages in a modern, highly interactive environment. Basically, it brings communities and friends together through fast, distraction-free messaging and media sharing.
 
